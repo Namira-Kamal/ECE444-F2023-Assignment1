@@ -13,4 +13,4 @@ Activity 3
 Activity 4 
 ![image](https://github.com/Namira-Kamal/ECE444-F2023-Assignment1/assets/102487879/1e23110c-df73-44a8-8581-d4ca3063084e)
 
-![image](https://github.com/Namira-Kamal/ECE444-F2023-Assignment1/assets/102487879/a6b297a0-d08d-4153-9243-eba6dd3f5ca0)
+![image](https://github.com/Namira-Kamal/ECE444-F2023-Assignment1/assets/102487879/d6907ca9-94ef-42dd-b66c-2088a907b36b)
